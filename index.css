@@ -46,13 +46,15 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  font-family: 'Times New Roman';
+  font-size: 26px;
+  font-weight: bold;
+}
+
 .pumpkins {
   display:block;
   width:100%;
-}
-
-h3 {
-  font-weight: bold;
 }
 
 h4 {
