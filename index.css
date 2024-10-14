@@ -1,0 +1,66 @@
+body {
+    font-family: 'Courier New';
+    font-size: 20px;
+    margin: 50px;
+    background-color: rgba(120, 68, 68, 0.216);
+    padding-left: 10%;
+}
+
+h1 {
+    color: rgb(128, 128, 128);
+    font-family: 'Times New Roman';
+    font-size : 70px;
+    font-style: italic;
+    text-align: center;     
+}
+
+.stars {
+  color: black;
+  display: inline-block;
+  width: 26px;
+  height: 26px;
+}
+
+.citation {
+  font-size: 24px;
+  text-align: center;
+}
+
+h2 {
+    font-size: 22px;
+    font-family: 'Times New Roman';      
+}
+
+.feather {
+  color: black;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(229, 226, 229);
+}
+
+.card {
+  background-color: rgba(120, 68, 68, 0.586);
+  text-align: center;
+}
+
+.pumpkins {
+  display:block;
+  width:100%;
+}
+
+h3 {
+  color: rgb(128, 128, 128);
+  font-family: 'Times New Roman';
+  font-size : 70px;
+  font-style: italic;
+  text-align: center;
+}
+
+/*Margaux006*/
+
+
+
+
